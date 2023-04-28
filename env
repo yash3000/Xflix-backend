@@ -1,0 +1,4 @@
+NODE_ENV=development
+PORT=8082
+MONGODB_URL=mongodb+srv://yashVerma:cPHfJm5stqp4tSBd@xflix.rfkdc1h.mongodb.net/?retryWrites=true&w=majority
+
